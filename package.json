@@ -1,0 +1,20 @@
+{
+  "name": "react-chronometer-gh-pages",
+  "version": "1.0.0",
+  "description": "A simple chronometer built with React JS [http://fbarrailla.github.io/react-chronometer/](http://fbarrailla.github.io/react-chronometer/)",
+  "main": "Chrono.js",
+  "scripts": {
+    "start": "webpack-dev-server ./Chrono.js ./bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-jsx": "^1.0.0",
+    "webpack": "^4.0.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.9"
+  }
+}
